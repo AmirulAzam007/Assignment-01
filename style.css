@@ -196,3 +196,49 @@ nav .menu a {
     line-height: 20px;
     color: #627382;
 }
+
+.boxes{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    padding-top: 44px;
+}
+
+.card {
+    /* border: 1px solid  red; */
+    padding: 45px 24px 24px 24px;
+    max-width: 322px;
+    height: 258px;
+    box-shadow: 0 0 8px 0 #0000000e;
+    text-align: center;
+}
+
+.p3{
+    font-size: 24px;
+    font-weight: 550;
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+ .p4 {
+    font-size: 16px;
+    color: #627382;
+ }
+
+ .imgbox {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(244, 84, 84);
+    margin: 0 auto;
+ }
+
+ #paraimage {
+    padding: 120px;
+    display: flex;
+    gap: 60px;
+ }
